@@ -1,4 +1,4 @@
-# AO-Counter | AO Beginner's Guide 0x01
+# AO-Counter | AO Dev Guide 0x01
 
 This article demonstrates the first example of AO, an AO-based counter. Every time the button is clicked, the counter increments by 1, and the clicker's address is recorded in the list in the AO Process.
 
