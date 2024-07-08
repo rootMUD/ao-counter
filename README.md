@@ -415,7 +415,7 @@ async afterConnected(address: string, othent?: any) {
 
 Call the `ArConnect` wallet to get the Wallet Address.
 
-### 3.2 Deploy to Vercel %HEADING%3-2-deploy-to-vercel%HEADING%
+### 3.2 Deploy to Vercel
 
 We installed the `vercel` plugin in `dapp`, so it can be deployed to the Vercel hosting platform with one command:
 
@@ -429,7 +429,7 @@ https://ao-counter.vercel.app
 
 ![image-20240629083247918](https://p.ipic.vip/r6v0j5.jpg
 
-### 3.3 Unstoppable Program — Deploy to Arweave %HEADING%3-3-unstoppable-program-deploy-to-arweave%HEADING%
+### 3.3 Unstoppable Program — Deploy to Arweave
 
 We can also choose to host the frontend program on `Arweave`, achieving complete decentralization.
 
